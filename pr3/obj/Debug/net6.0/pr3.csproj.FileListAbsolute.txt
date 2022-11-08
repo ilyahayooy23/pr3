@@ -1,0 +1,15 @@
+/Users/ilyahayooy23/Projects/pr3/pr3/bin/Debug/net6.0/pr3
+/Users/ilyahayooy23/Projects/pr3/pr3/bin/Debug/net6.0/pr3.deps.json
+/Users/ilyahayooy23/Projects/pr3/pr3/bin/Debug/net6.0/pr3.runtimeconfig.json
+/Users/ilyahayooy23/Projects/pr3/pr3/bin/Debug/net6.0/pr3.dll
+/Users/ilyahayooy23/Projects/pr3/pr3/bin/Debug/net6.0/pr3.pdb
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.csproj.AssemblyReference.cache
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.AssemblyInfoInputs.cache
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.AssemblyInfo.cs
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.csproj.CoreCompileInputs.cache
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.dll
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/refint/pr3.dll
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.pdb
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/pr3.genruntimeconfig.cache
+/Users/ilyahayooy23/Projects/pr3/pr3/obj/Debug/net6.0/ref/pr3.dll
